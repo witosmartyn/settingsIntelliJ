@@ -1,0 +1,8 @@
+<keymap version="1" name="Default for XWin Vitali" parent="Default for XWin">
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="altGraph d" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="altGraph f" />
+  </action>
+</keymap>
