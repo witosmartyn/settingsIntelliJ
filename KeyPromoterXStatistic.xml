@@ -126,7 +126,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Distraction Free Mode">
@@ -366,7 +366,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'sbt run'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'sbt'">
@@ -398,7 +398,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -559,6 +559,14 @@
           <ShortCut>'Ctrl+Z' or 'Alt+Backspace'</ShortCut>
           <Description>Undo Typing</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
