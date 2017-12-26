@@ -1,0 +1,7 @@
+<application>
+  <component name="PresentationAssistant">
+    <option name="alternativeKeymap" />
+    <option name="fontSize" value="18" />
+    <option name="hideDelay" value="300" />
+  </component>
+</application>
