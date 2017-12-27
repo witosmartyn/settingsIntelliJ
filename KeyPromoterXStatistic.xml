@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="1">
+        <Item>
+          <IdeaActionID>ExpandToLevel1</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad *, 1' or 'Ctrl+NumPad *, NumPad-1'</ShortCut>
+          <Description>1</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add">
         <Item>
           <IdeaActionID>Git.Add</IdeaActionID>
@@ -14,6 +22,14 @@
           <IdeaActionID>createSnippet</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+T'</ShortCut>
           <Description>Add Snippet on TagMyCode...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Collapse All">
+        <Item>
+          <IdeaActionID>CollapseAllRegions</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+NumPad -' or 'Ctrl+Shift+Minus'</ShortCut>
+          <Description>Collapse All</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -46,7 +62,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>75</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -134,7 +150,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exit Distraction Free Mode">
@@ -145,12 +161,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Expand">
+        <Item>
+          <IdeaActionID>ExpandRegion</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad +' or 'Ctrl+Equals'</ShortCut>
+          <Description>Expand</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Field...">
         <Item>
           <IdeaActionID>IntroduceField</IdeaActionID>
           <ShortCut>'Ctrl+Alt+F'</ShortCut>
           <Description>Field...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -158,6 +182,14 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Find Usages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Fold Code Block">
+        <Item>
+          <IdeaActionID>CollapseBlock</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Period'</ShortCut>
+          <Description>Fold Code Block</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -214,7 +246,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -398,7 +430,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'sbt run'</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'sbt'">
@@ -534,7 +566,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'sbt run'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sbt'">
@@ -551,6 +583,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Surround With...">
+        <Item>
+          <IdeaActionID>SurroundWith</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+T'</ShortCut>
+          <Description>Surround With...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
