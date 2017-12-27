@@ -78,7 +78,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'Ctrl+X' or 'Shift+Delete'</ShortCut>
           <Description>Cut</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Index.html'">
@@ -150,7 +150,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>23</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit Source">
@@ -438,7 +438,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'sbt clean run'</Description>
-          <Count>12</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'sbt run'">
@@ -582,7 +582,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'sbt clean run'</Description>
-          <Count>9</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'sbt run'">
@@ -678,7 +678,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
     </option>
