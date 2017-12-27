@@ -153,6 +153,14 @@
           <Count>23</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit Source">
+        <Item>
+          <IdeaActionID>Vcs.EditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit Source</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Exit Distraction Free Mode">
         <Item>
           <IdeaActionID>ToggleDistractionFreeMode</IdeaActionID>
@@ -198,7 +206,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Generate...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="GoTo">
@@ -430,7 +438,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'sbt clean run'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'sbt run'">
@@ -670,7 +678,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
     </option>
