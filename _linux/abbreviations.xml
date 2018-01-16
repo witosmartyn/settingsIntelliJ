@@ -1,9 +1,0 @@
-<application>
-  <component name="AbbreviationManager">
-    <abbreviations>
-      <action id="SurroundWith">
-        <abbreviation name="fcom" />
-      </action>
-    </abbreviations>
-  </component>
-</application>
