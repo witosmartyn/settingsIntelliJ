@@ -425,6 +425,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SbSecurityJdbcThymeleafApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⇧F10'</ShortCut>
+          <Description>Run 'SbSecurityJdbcThymeleafApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unnamed'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -615,6 +623,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Play2'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'SbSecurityJdbcThymeleafApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'SbSecurityJdbcThymeleafApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'catalog.html (1)'">
