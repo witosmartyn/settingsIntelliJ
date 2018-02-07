@@ -11,6 +11,6 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
-    <entry key="compiler.automake.trigger.delay" value="200" />
+    <entry key="compiler.automake.trigger.delay" value="100" />
   </component>
 </application>
